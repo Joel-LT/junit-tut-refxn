@@ -1,0 +1,40 @@
+{
+  "testCases": [
+    {
+      "file": "calculator.AddTest",
+      "id": "ec5bf3a8264bc437ccb3d1b10a10506e",
+      "label": "addTestMixed",
+      "test-suite": "calculator.AddTest"
+    },
+    {
+      "file": "calculator.AddTest",
+      "id": "636f47b95012b948edad9c5f03b0b099",
+      "label": "Addition of Positive Numbers",
+      "test-suite": "calculator.AddTest"
+    },
+    {
+      "file": "calculator.AddTest",
+      "id": "b8f3018553eb1efffd4464c19b2c72bb",
+      "label": "Addition of Negative Numbers",
+      "test-suite": "calculator.AddTest"
+    },
+    {
+      "file": "calculator.SubTest",
+      "id": "f5c9cd3aa171c3c2d7a03f96c40fcd5d",
+      "label": "subTest",
+      "test-suite": "calculator.SubTest"
+    }
+  ],
+  "testSuites": [
+    {
+      "file": "calculator.AddTest",
+      "id": "3781eb90c0c445a6e08d448c75b2202a",
+      "label": "The is a test class to test Add.java"
+    },
+    {
+      "file": "calculator.SubTest",
+      "id": "5d5ef2dcdc355a29788ab9ea021480f2",
+      "label": "calculator.SubTest"
+    }
+  ]
+}

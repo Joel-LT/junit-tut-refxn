@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+@DisplayName("The is a test class to test Add.java")
 class AddTest {
 
     @Test
@@ -17,6 +18,7 @@ class AddTest {
     }
 
     @Test
+    @DisplayName("Addition of Negative Numbers")
     void addTestNeg() {
         Add case_1 = new Add(-10,-3);
         assertEquals(-13, case_1.add(case_1));

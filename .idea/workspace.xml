@@ -19,6 +19,7 @@
       <change afterPath="$PROJECT_DIR$/../LearnReflection/out/production/LearnReflection/learn/reflection/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LearnReflection/src/learn/reflection/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LearnReflection/src/learn/reflection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnReflection/src/learn/reflection/jsonclass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LearnReflection/src/learn/testpackage/TestA.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LearnReflection/src/learn/testpackage/TestB.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sample code/.idea/.gitignore" afterDir="false" />
@@ -28,22 +29,17 @@
       <change afterPath="$PROJECT_DIR$/../Sample code/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sample code/main/main.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sample code/test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/calculator/AddTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/calculator/SubTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tastemprunner/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/calculator/Add.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/calculator/Sub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/calculator/AddTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/calculator/SubTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../junit-tutorial/src/main/java/Calculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../junit-tutorial/src/test/java/CalculatorTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../junit-tutorial/src/test/java/metadata/MyCustomTestDescriptor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../junit-tutorial/src/test/java/metadata/MyCustomTestEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/calculator/AddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/calculator/AddTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tastemprunner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tastemprunner/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/calculator/AddTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/calculator/AddTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tastemprunner/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tastemprunner/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +55,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
