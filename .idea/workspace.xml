@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41832464-fd15-470d-b9bc-5bc59815673a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Junit5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnReflection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnReflection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnReflection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnReflection/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnReflection/LearnReflection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnReflection/out/production/LearnReflection/learn/reflection/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnReflection/src/learn/reflection/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnReflection/src/learn/reflection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnReflection/src/learn/testpackage/TestA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnReflection/src/learn/testpackage/TestB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sample code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sample code/.idea/Sample code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sample code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sample code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sample code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sample code/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sample code/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/calculator/AddTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/calculator/SubTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tastemprunner/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/calculator/Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/calculator/Sub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/calculator/AddTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/calculator/SubTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-tutorial/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-tutorial/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-tutorial/src/test/java/metadata/MyCustomTestDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-tutorial/src/test/java/metadata/MyCustomTestEngine.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26p04PfxwGyHEYVjCr4kSa7SMK7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="calculator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tastemprunner.Main" />
+      <module name="junit-tut-refxn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tastemprunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-tut-refxn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculator" />
+      <option name="MAIN_CLASS_NAME" value="calculator.AddTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-tut-refxn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculator" />
+      <option name="MAIN_CLASS_NAME" value="calculator.SubTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.SubTest" />
+        <item itemvalue="JUnit.AddTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41832464-fd15-470d-b9bc-5bc59815673a" name="Changes" comment="" />
+      <created>1648105030893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648105030893</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
